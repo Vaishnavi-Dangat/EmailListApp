@@ -31,17 +31,13 @@ body{
 }
 .emailList{
     max-height:400px;
-    overflow: auto;
+    overflow-y: auto;
 }
 .emailList{
     -ms-overflow-style: none;
     scrollbar-width: none;
-    overflow-y: scroll; 
 }
 
-.emailList{
-    display: none; 
-}
 @media only screen and (max-width:998px) {
 .emailList{
     height:auto;
