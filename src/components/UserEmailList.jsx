@@ -20,10 +20,10 @@ useEffect(()=>{
     return (
         <div className="container EmailListMainDiv d-flex flex-column">
            <div className="row  mt-lg-none mt-4 mt-md-4">
-               <div className="col-md-8">
+               <div className="col-lg-8">
                  <img src={natureImg} alt="nature" className="img-fluid"></img>
                </div>
-               <div className="col-md-4 d-flex flex-column justify-content-center">
+               <div className="col-lg-4 d-flex flex-column justify-content-center">
                    <div className="row my-lg-auto mt-2">
                     <div className=" col-12 text-center">
                        <div className="row">
